@@ -26,10 +26,23 @@ p{
 
   #chunk1 {
     background-color: #F9CDF4;
-    border: dotted 5px #FE0909
-
+    border: dotted 5px #FE0909;
   }
 
-  #image_chunk1 {
-    width: 20px;
+  h2{
+    color: orange;
+    font-size: 100%;
+    font-family: "helvetica";
+    margin-left: 40px;
+  }
+
+  #chunk2{
+    background-color: #F9CDF4;
+    border: dotted 5px #FE0909;
+    font-family: "helvetica";
+  }
+  #image_chunk1 img{
+    font-family: "helvetica";
+    width: 100px;
+    border-radius: 50%;
   }
